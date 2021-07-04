@@ -1,0 +1,59 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+margin: 0;
+
+
+}
+
+h1{
+
+
+font-size: 50px;
+
+}
+
+#jamil{
+
+
+    color: orange;
+}
+
+section{
+
+
+
+    display: flex;
+}
+
+.half-width{
+
+padding-left: 40px;
+width: 50%;
+
+}
+.half-width img{
+
+width: 80%;
+
+
+}
+.hireme{
+border-radius: 5px;
+background-image: linear-gradient(#ff6c4f,#ff9772); 
+text-decoration: none;
+/* background-color: #ff7153; */
+padding: 10px 40px;
+font-weight: 700;
+color: white;
+
+}
+
+.top-part{
+
+background-image: url(img/top-banner.png);
+background-repeat: no-repeat;
+
+
+
+}
