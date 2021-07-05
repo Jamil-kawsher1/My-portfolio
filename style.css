@@ -65,3 +65,21 @@ background-position: right;
 
 
 }
+.boxshadow{
+
+
+width: 40%;
+    box-shadow:10px 10px 40px  gray; 
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+border-radius: 10px;
+}
+.experiance{
+
+background-image: url(img/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+
+
+}
