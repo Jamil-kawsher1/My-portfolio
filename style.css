@@ -79,7 +79,39 @@ border-radius: 10px;
 
 background-image: url(img/exp-bg.png);
 background-repeat: no-repeat;
-background-position: left;
+
+
+
+}
+
+
+#web-senior{
+    border-left: 7px solid;
+   border-image: linear-gradient(tomato,orange);
+
+/* background-image: linear-gradient(orange,tomato); */
+
+
+border-image-slice: 1;
+
+
+}
+#web-junior{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+ 
+ 
+ 
+ border-image-slice: 1;
+ 
+
+
+}
+
+footer p{
+margin-top: 50px;
+text-align: center;
 
 
 }
